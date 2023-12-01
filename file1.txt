@@ -1,2 +1,2 @@
 this is a practice file
-this is a practice file22git status
+this is a practice file2
